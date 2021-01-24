@@ -40,25 +40,8 @@
 
 - <img src="https://github.com/Ahmed-walid/Ahmed-walid/blob/main/logo221.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
-- <img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="25" draggable="false"> Ask me about anything, I will be happy to help
+- 🌱 I’m currently learning Alogrithms, Database and Microprocessors
+- 📫 How to reach me: awaleed536@gmail.com
+- 🖐 available to help 
 
-
-
-
-
-
-
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
