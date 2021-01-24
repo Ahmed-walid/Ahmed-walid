@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://codeforces.com/profile/Ahmed_win">
-  <img align="left" alt="ahmed's codeforces" width="40px" src="https://github.com/Ahmed-walid/Ahmed-walid/blob/main/icon.svg" draggable="false" />
+  <img align="left" alt="ahmed's codeforces" width="40px" src="https://github.com/Ahmed-walid/Ahmed-walid/blob/main/icon.png" draggable="false" />
 </a>
 
 
