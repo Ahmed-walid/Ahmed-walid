@@ -2,7 +2,7 @@
 
 </div>
 
-# Hey <img src="https://github.com/Ahmed-walid/Ahmed-walid/blob/master/wave.gif" width="40px">, I'm [Ahmed Waleed!](https://github.com/Ahmed-walid) 
+# Hey <img src="https://github.com/Ahmed-walid/Ahmed-walid/blob/main/wave.gif" width="40px">, I'm [Ahmed Waleed!](https://github.com/Ahmed-walid) 
 
 <br/>
 
