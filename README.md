@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+</div>
+
+# Hey <img src="https://github.com/Ahmed-walid/Ahmed-walid/blob/master/wave.gif" width="40px">, I'm [Ahmed Waleed!](https://github.com/Ahmed-walid) 
+
+<br/>
+
 <!--
 **Ahmed-walid/Ahmed-walid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
