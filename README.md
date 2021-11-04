@@ -14,9 +14,6 @@
 <a href="https://www.facebook.com/ahmed.waleed.794/">
   <img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" draggable="false" />
 </a>
-<a href="https://github.com/Ahmed-walid">
-  <img align="left" alt="github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
-</a>
 <a href="https://www.hackerrank.com/Ahmed_Waleed003?hr_r=1">
   <img align="left" alt="hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
 </a>
