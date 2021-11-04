@@ -1,7 +1,7 @@
 
 </div>
 
-# Hey <img src="https://github.com/Ahmed-walid/Ahmed-walid/blob/main/wave.gif" width="40px">, I'm [Ahmed Waleed!](https://github.com/Ahmed-walid) 
+# Hi <img src="https://github.com/Ahmed-walid/Ahmed-walid/blob/main/wave.gif" width="40px">, I'm [Ahmed Waleed!](https://github.com/Ahmed-walid) 
 
 <br/>
 
