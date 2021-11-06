@@ -1,12 +1,11 @@
 
-</div>
 
-# Hi <img src="https://github.com/Ahmed-walid/Ahmed-walid/blob/main/wave.gif" width="40px">, I'm [Ahmed Waleed!](https://github.com/Ahmed-walid) 
 
+<h1 align="center">Hi 👋, I'm Ahmed Walid</h1>
 <br/>
 
 
-<div align="center">
+
 
 <a href="https://www.linkedin.com/in/ahmed-waleed-a9b7371a4">
   <img align="left" alt="LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
