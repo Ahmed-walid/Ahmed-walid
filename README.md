@@ -11,7 +11,7 @@
   <img align="center" alt="Linkedin" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" draggable="false" />
 </a>
 <a href="mailto:ahmed.ibrahim003@eng-st.cu.edu.eg">
-  <img align="center" alt="gmail" width="110px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" draggable="false" />
+  <img align="center" alt="gmail" width="115px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" draggable="false" />
 </a>
 
 
@@ -27,7 +27,7 @@
 
 - <img src="https://github.com/Ahmed-walid/Ahmed-walid/blob/main/logo221.png" width="25" draggable="false"> Junior Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
-- 🌱 I’m currently learning Image Processing, Computer Architecture.
+- 🌱 I’m currently learning Embedded Systems and Control Engineering and Cyber Security
 - 🦾 I'm currently working on a scoial media mobile application like Tumblr using flutter.  
 - 📫 How to reach me: awaleed536@gmail.com
 - 🖐 Available to help 
