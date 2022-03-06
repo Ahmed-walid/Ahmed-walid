@@ -8,7 +8,7 @@
 
 
 <a href="https://www.linkedin.com/in/ahmed-waleed-a9b7371a4">
-  <img align="left" alt="LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
+  <img align="left" alt="LinkdeIN" width="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" draggable="false" />
 </a>
 <a href="mailto:ahmed.ibrahim003@eng-st.cu.edu.eg">
   <img align="left" alt="gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
