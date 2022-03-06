@@ -8,10 +8,10 @@
 
 
 <a href="https://www.linkedin.com/in/ahmed-waleed-a9b7371a4">
-  <img align="left" alt="Linkedin" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" draggable="false" />
+  <img align="center" alt="Linkedin" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" draggable="false" />
 </a>
 <a href="mailto:ahmed.ibrahim003@eng-st.cu.edu.eg">
-  <img align="left" alt="gmail" width="150px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" draggable="false" />
+  <img align="center" alt="gmail" width="110px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" draggable="false" />
 </a>
 
 
