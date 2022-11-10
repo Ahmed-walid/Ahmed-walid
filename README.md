@@ -27,7 +27,7 @@
 
 - <img src="https://github.com/Ahmed-walid/Ahmed-walid/blob/main/logo221.png" width="25" draggable="false"> Senior Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
-- 🌱 I’m currently learning Web Front-End development.
+- 🌱 I’m currently learning Web Back-End development.
 - 📫 How to reach me: awaleed536@gmail.com
 - 🖐 Available to help 
 
