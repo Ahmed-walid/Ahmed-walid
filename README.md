@@ -10,8 +10,8 @@
 <a href="https://www.linkedin.com/in/ahmed-waleed-a9b7371a4">
   <img align="center" alt="Linkedin" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" draggable="false" />
 </a>
-<a href="mailto:ahmed.ibrahim003@eng-st.cu.edu.eg">
-  <img align="center" alt="gmail" width="115px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" draggable="false" />
+<a href="mailto:awaleed.ibrahim@outlook.com">
+  <img align="center" alt="outlook" width="150px" src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=mailboxdotorg&logoColor=white&logoSize=auto" draggable="false" />
 </a>
 
 
