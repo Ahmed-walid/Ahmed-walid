@@ -26,7 +26,6 @@
 # <img src="https://github.com/Ahmed-walid/Ahmed-walid/blob/main/think.png" width="50" draggable="false" > About me
 
 - 📫 How to reach me: awaleed.ibrahim@outlook.com
-- 🖐 Available to help 
 
 <h3 align="left">Technologies and Skills:</h3>
 <p align="left"> 
