@@ -22,8 +22,3 @@
 
 - 📫 How to reach me: awaleed.ibrahim@outlook.com
  
- 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ahmed-walid&show_icons=true&theme=radical)
-
- 
- 
